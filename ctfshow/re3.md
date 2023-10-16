@@ -1,5 +1,6 @@
 ## DIE
 判断文件类型。
+
 ![image](https://github.com/TakaradaRikka/writeup/assets/44569515/9a1eb37b-9d69-4193-a81c-43026a36a8a1)
 ## IDA
 尝试执行程序。
